@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @acerohernan
 - 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
+- 📫 You can contact me: contacto.acero.hernan@gmail.com
 
 <!---
 acerohernan/acerohernan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
