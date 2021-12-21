@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acerohernan
-- 👀 I’m interested in frontend development.
+- 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
