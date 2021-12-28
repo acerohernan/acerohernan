@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acerohernan
 - 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning React.
+- 🌱 I have advanced level in React.
 - 📫 You can contact me: contacto.acero.hernan@gmail.com
 
 <!---
