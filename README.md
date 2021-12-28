@@ -3,14 +3,14 @@
 
 <p align="left">
   I am a Frontend  Web Developer, passionate about React.
-
+<br>
 My skills to highlight are
 ✔️ Frontend Development (Html, Css, JavaScript, ReactJs, Redux, Typescript, Sass)
 ✔️ Web Layout (Figma)
 ✔️ Handling version control and repositories (Git, GitHub)
-
+<br>
 Visit my portfolio: https://acerohernan.github.io/portfolio/
-
+<br>
 Frontend Developer ⌨️ | Web Developer 💻 | Scheduler 👨‍💻
 </p>
 
