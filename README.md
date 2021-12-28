@@ -2,7 +2,7 @@
 <h3 align="center">A passionate React Frontend developer from Perú</h3>
 
 <p align="left">
-  I am a Frontend focused web developer, passionate about React.
+  I am a Frontend  Web Developer, passionate about React.
 
 My skills to highlight are
 ✔️ Frontend Development (Html, Css, JavaScript, ReactJs, Redux, Typescript, Sass)
