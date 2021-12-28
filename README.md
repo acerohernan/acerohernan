@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, I'm Hernan Acero</h1>
 <h3 align="center">A passionate React Frontend developer from Perú</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  I am a Frontend focused web developer, passionate about React.
+
+My skills to highlight are
+✔️ Frontend Development (Html, Css, JavaScript, ReactJs, Redux, Typescript, Sass)
+✔️ Web Layout (Figma)
+✔️ Handling version control and repositories (Git, GitHub)
+
+Visit my portfolio: https://acerohernan.github.io/portfolio/
+
+Frontend Developer ⌨️ | Web Developer 💻 | Scheduler 👨‍💻
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
