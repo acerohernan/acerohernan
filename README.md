@@ -5,7 +5,7 @@
   I am a Frontend  Web Developer, passionate about React.
 <br>
 <br>
-My skills to highlight are
+My skills to highlight are:
 <br>
 ✔️ Frontend Development (Html, Css, JavaScript, ReactJs, Redux, Typescript, Sass)
 <br>
