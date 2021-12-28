@@ -4,10 +4,13 @@
 <p align="left">
   I am a Frontend  Web Developer, passionate about React.
 <br>
- <br>
+<br>
 My skills to highlight are
+<br>
 ✔️ Frontend Development (Html, Css, JavaScript, ReactJs, Redux, Typescript, Sass)
+<br>
 ✔️ Web Layout (Figma)
+<br>
 ✔️ Handling version control and repositories (Git, GitHub)
 <br>
  <br>
