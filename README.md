@@ -2,7 +2,7 @@
 <h3 align="center">A passionate React Frontend Developer from Perú</h3>
 
 <p align="left">
-  I am a Frontend  Web Developer, passionate about React.
+  I am a Frontend  Web Developer, with one year of professional experience with ReactJS.
 <br>
 <br>
 My skills to highlight are:
