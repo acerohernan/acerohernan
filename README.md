@@ -19,5 +19,5 @@ My skills to highlight are:
 Visit my portfolio: https://acerohernan.github.io/portfolio_react_ts/
 <br>
  <br>
-React Developer ⌨️ | Fontend Developer
+React Developer ⚛️ | Fontend Developer⌨️
 </p>
