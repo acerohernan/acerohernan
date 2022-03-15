@@ -7,17 +7,17 @@
 <br>
 My skills to highlight are:
 <br>
-✔️ Frontend Development (Html, Css, JavaScript, ReactJs, Redux, Typescript, Sass, AngularJS)
+✔️ Frontend Development (Html, Css, JavaScript, ReactJs, Redux, Typescript, SASS, AngularJS, VueJS)
 <br>
-✔️ Backend Development (NodeJS, Express, MongoDB, SocketIo)
+✔️ Backend Development (NodeJS, Express, MongoDB, MySQL, SocketIo)
 <br>
 ✔️ Web Layout (Figma)
 <br>
 ✔️ Handling version control and repositories (Git, GitHub)
 <br>
  <br>
-Visit my portfolio: https://acerohernan.github.io/portfolio/
+Visit my portfolio: https://acerohernan.github.io/portfolio_react_ts/
 <br>
  <br>
-Frontend Developer ⌨️ | Web Developer 💻 | Scheduler 👨‍💻
+React Developer ⌨️ | Fontend Developer
 </p>
