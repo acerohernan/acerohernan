@@ -7,9 +7,9 @@
 <br>
 My skills to highlight are:
 <br>
-✔️ Frontend Development (Html, Css, JavaScript, ReactJs, Redux, Redux Thunk, Typescript, SASS, AngularJS, VueJS, NextJS)
+✔️ Frontend Development (Html, Css, SASS, JavaScript, Typescript, ReactJs, Redux, Context, AngularJS, VueJS, NextJS)
 <br>
-✔️ Backend Development (NodeJS, Express, MongoDB, MySQL, SocketIo)
+✔️ Backend Development (NodeJS, Typescript, Express, MongoDB, MySQL, PostgreSQL, SocketIo)
 <br>
 ✔️ Web Layout (Figma)
 <br>
