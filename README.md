@@ -11,8 +11,6 @@ My skills to highlight are:
 <br>
 ✔️ Backend Development (NodeJS, Typescript, Express, MongoDB, MySQL, PostgreSQL, SocketIo)
 <br>
-✔️ Web Layout (Figma)
-<br>
 ✔️ Handling version control and repositories (Git, GitHub)
 <br>
  <br>
