@@ -16,13 +16,9 @@ My skills to highlight are:
 ✔️ Manejo de control de versiones y repositorios (Git, GitHub)
 <br>
 <br>
-Visita mi portafolio: https://hacero.me
-Mira mi CV: https://www.hacero.me/HERNAN_ACERO_CV.pdf
-<br>
-  
-Full Stack Developer⌨️| React Developer ⚛️ | NodeJS Developer 🟡
+Visit mi portfolio: https://hacero.me
  <br>
-Visit my portfolio: https://acerohernan.github.io/portfolio_react_ts/
+Check mi Curriculum Vitae: https://www.hacero.me/HERNAN_ACERO_CV.pdf
 <br>
  <br>
 Fullstack Developer⌨️ | React Developer ⚛️ | NodeJs Developer
