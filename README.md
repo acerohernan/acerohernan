@@ -7,12 +7,20 @@
 <br>
 My skills to highlight are:
 <br>
-✔️ Frontend Development (Html, Css, SASS, JavaScript, Typescript, ReactJs, Redux, Context, AngularJS, VueJS, NextJS)
+✔️ Desarrollo Frontend (Html, Css, SASS, Bootstrap, JavaScript, ReactJs, Redux,Typescript, NextJS)
 <br>
-✔️ Backend Development (NodeJS, Typescript, Express, MongoDB, MySQL, PostgreSQL, SocketIo)
+✔️ Desarrollo Backend (NodeJS, Typescript, Express, NestJS, MongoDB, MySQL, PostgreSQL, SocketIo, Docker)
 <br>
-✔️ Handling version control and repositories (Git, GitHub)
+✔️ Proovedores cloud (AWS, Google Cloud)
+<br>  
+✔️ Manejo de control de versiones y repositorios (Git, GitHub)
 <br>
+<br>
+Visita mi portafolio: https://hacero.me
+Mira mi CV: https://www.hacero.me/HERNAN_ACERO_CV.pdf
+<br>
+  
+Full Stack Developer⌨️| React Developer ⚛️ | NodeJS Developer 🟡
  <br>
 Visit my portfolio: https://acerohernan.github.io/portfolio_react_ts/
 <br>
