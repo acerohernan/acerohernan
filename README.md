@@ -1,19 +1,25 @@
 <h1 align="center">Hi 👋, I'm Hernan Acero</h1>
-<h3 align="center">A passionate Full Stack Developer from Perú</h3>
+<h3 align="center">Full-stack Developer</h3>
 
-Full-stack developer with 3 years of experience working with Javascript in enterprise code bases.
+I've been planning, designing and building performant, reliable and secure software products for enterprise clients for the past 4 years. 
+<br/>
+I enjoy working on every part of the system, from the desing of the button needed to trigger an action, to the provoked repercussions on the server side and the infrastructure. 
 
-✔️Frontend: React.js, Next.js, Typescript, Storybook, Jest, Cypress
+TECHNICAL SKILLS:
 <br>
-✔️Backend: Node.js, Express.js, Serverless Framework, Docker, Kubernetes
+
+✔️ Frontend: React.js, Next.js, Typescript, Storybook, Jest, Cypress
 <br>
-✔️Databases: SQLServer, MySQL, PostgreSQL, MongoDB, DynamoDB
+✔️ Backend: Node.js, Express.js, Serverless Framework, Go, Docker, Kubernetes
 <br>
-✔️Cloud services: Amazon Web Services (Lambda, Cognito, S3, ApiGateway, SQS, SNS, SES, DynamoDB, RDS, EC2, ECS, EKS, CloudFront, CodePipeline, ECR)
+✔️ Databases: SQLServer, MySQL, PostgreSQL, MongoDB, DynamoDB
+<br>
+✔️ Cloud providers: Amazon Web Services and Google Cloud
 <br>
 
 SOFT SKILLS
 <br>
-✔️ C1 level of English
+
+✔️ C1 English level
 <br>
 ✔️ Team player and problem-solver
