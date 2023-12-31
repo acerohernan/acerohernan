@@ -17,7 +17,7 @@ TECHNICAL SKILLS:
 ✔️ Cloud providers: Amazon Web Services and Google Cloud
 <br>
 
-SOFT SKILLS
+SOFT SKILLS:
 <br>
 
 ✔️ C1 English level
