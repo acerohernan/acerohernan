@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hernan Acero</h1>
 <h3 align="center">Full-stack Developer</h3>
+<br/>
 
 I've been planning, designing and building performant, reliable and secure software products for enterprise clients for the past 4 years. 
 <br/>
