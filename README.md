@@ -2,7 +2,8 @@
 <h3 align="center">Full-stack Developer</h3>
 <br/>
 
-I've been planning, designing and building performant, reliable and secure software products for enterprise clients for the past 4 years. 
+I've been planning, designing and building performant, reliable and secure software products for enterprise clients for the past 3 years.
+
 <br/>
 I enjoy working on every part of the system, from the desing of the button needed to trigger an action, to the provoked repercussions on the server side and the infrastructure. 
 
