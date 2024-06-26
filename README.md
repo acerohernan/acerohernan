@@ -11,7 +11,7 @@ TECHNICAL SKILLS:
 
 ✔️ Frontend: React.js, Next.js, Typescript, Storybook, Jest, Cypress
 <br>
-✔️ Backend: Node.js, Express.js, Serverless Framework, Go, Docker, Kubernetes
+✔️ Backend: Node.js, Express.js, Serverless Framework, C#, .NET, Docker, Kubernetes
 <br>
 ✔️ Databases: SQLServer, MySQL, PostgreSQL, MongoDB, DynamoDB
 <br>
